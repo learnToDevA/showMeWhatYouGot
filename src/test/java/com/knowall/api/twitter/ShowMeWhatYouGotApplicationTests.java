@@ -1,4 +1,4 @@
-package com.knowall.api.graph.facebook;
+package com.knowall.api.twitter;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

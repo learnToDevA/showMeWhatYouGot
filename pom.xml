@@ -10,11 +10,11 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 
-	<groupId>com.knowall.api.graph</groupId>
-	<artifactId>facebook</artifactId>
+	<groupId>com.knowall.api</groupId>
+	<artifactId>social-apis</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Show Me What You Got</name>
-	<description>An application to retrieve public information from the Facebook Graph API</description>
+	<name>Show Me What You Got - Twitter</name>
+	<description>An application to retrieve public information from Social Media APIs</description>
 
 	<properties>
 		<java.version>17</java.version>
