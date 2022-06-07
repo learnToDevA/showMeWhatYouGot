@@ -1,4 +1,4 @@
-package com.knowall.api.twitter;
+package ovh.knowall.socialstats.api.twitter;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
